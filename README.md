@@ -40,7 +40,7 @@ This is a C++ project for a Railway Reservation System that demonstrates object-
    ./railway_reservation_system
    ```
 
-For managing trains, there is a hidden admin menu which can be opened by pressing '4' on the home page of the application. Password for admin is 'admin'.
+For managing trains, there is a hidden admin menu which can be opened by pressing '4' on the home page of the application. Password for accessing admin functions is 'admin'.
 
 ## Usage
 
