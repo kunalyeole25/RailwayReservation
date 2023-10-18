@@ -61,7 +61,7 @@ Before selection of seats 85, 86, 91 and 92
 
 <img width="187" alt="Before booking seats" src="https://github.com/kunalyeole25/RailwayReservation/assets/79986521/32120078-f188-40f6-b520-013eb2865133">
 
-Agter selection of seats 85, 86, 91 and 92
+After selection of seats 85, 86, 91 and 92
 
 <img width="187" alt="After booking seats" src="https://github.com/kunalyeole25/RailwayReservation/assets/79986521/f09fec09-ec97-4ecf-870e-baf76807aff8">
 
