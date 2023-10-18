@@ -40,6 +40,8 @@ This is a C++ project for a Railway Reservation System that demonstrates object-
    ./railway_reservation_system
    ```
 
+For managing trains, there is a hidden admin menu which can be opened by pressing '4' on the home page of the application. Password for admin is 'admin'.
+
 ## Usage
 
 1. When you run the program, you will be prompted to select a train from the available options.
@@ -52,6 +54,17 @@ This is a C++ project for a Railway Reservation System that demonstrates object-
 - `trainlist/`: This directory contains text files representing different trains, including their seat configurations.
 - `passanger/`: This directory stores reservation data in separate text files for each train.
 - `id/`: This file contains login details of users.
+
+## Dynamic Seat Selection Map
+
+Before selection of seats 85, 86, 91 and 92
+
+<img width="187" alt="Before booking seats" src="https://github.com/kunalyeole25/RailwayReservation/assets/79986521/32120078-f188-40f6-b520-013eb2865133">
+
+Agter selection of seats 85, 86, 91 and 92
+
+<img width="187" alt="After booking seats" src="https://github.com/kunalyeole25/RailwayReservation/assets/79986521/f09fec09-ec97-4ecf-870e-baf76807aff8">
+
 
 ## Contributing
 
