@@ -49,9 +49,9 @@ This is a C++ project for a Railway Reservation System that demonstrates object-
 ## Files and Directories
 
 - `main.cpp`: The main source code for the Railway Reservation System.
-- `trains/`: This directory contains text files representing different trains, including their seat configurations.
-- `reservations/`: This directory stores reservation data in separate text files for each train.
-- `data_manager.h` and `data_manager.cpp`: These files handle file input/output operations.
+- `trainlist/`: This directory contains text files representing different trains, including their seat configurations.
+- `passanger/`: This directory stores reservation data in separate text files for each train.
+- `id/`: This file contains login details of users.
 
 ## Contributing
 
